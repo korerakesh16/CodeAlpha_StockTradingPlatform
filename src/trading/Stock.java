@@ -11,6 +11,7 @@ public class Stock {
         this.price = price;
     }
 
+    
     public String getSymbol() {
         return symbol;
     }
