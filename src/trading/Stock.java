@@ -10,7 +10,7 @@ public class Stock {
         this.name = name;
         this.price = price;
     }
-    
+
     public String getSymbol() {
         return symbol;
     }
